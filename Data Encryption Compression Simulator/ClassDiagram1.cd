@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Data_Encryption_Compression_Simulator.ClassLib.Compression">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAIAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>ClassLib\Compression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Encryption_Compression_Simulator.ClassLib.RSAKeys">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAwAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassLib\RSAKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Encryption_Compression_Simulator.EncryptionRSA" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAEQAAAAAA=</HashCode>
+      <FileName>ClassLib\EncryptionRSA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Encryption_Compression_Simulator.TypeConversion" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAQAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassLib\TypeConversion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Encryption_Compression_Simulator.Form1" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgQEwIICFCgAAFhAIYCSMAASBAAFAAAAAIACCCAgQCA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Encryption_Compression_Simulator.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_Encryption_Compression_Simulator.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
